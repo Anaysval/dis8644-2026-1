@@ -61,7 +61,7 @@ Investigación antes de ver el documental:
 
 Investigación rápida de wikipedia menciona que es un documental realizado a mujeres poco conocidas en el área de la música electrónica en donde encontraron libertad en un mundo dominado por hombres. Aquí podemos ver a detalle como ellas trabajan ¿La gente lo percibe como un manifiesto más que una película?
 
-*Después de ver el documental:*
+Después de ver el documental:
 
 Mientras veía el documental entendía el porque me gusta la música electrónica, sobre todo la de los 80 o cercano a ello como lo es Jean luc Ponty, violinista francés que en muchas de sus obras incorpora el sintetizador y muchos instrumentos eléctricos. El álbum “cosmic messenger” estuvo en mi mente en todo momento. Destacó los temas “Cosmic Messenger” y “Ethereal Mood”
 
