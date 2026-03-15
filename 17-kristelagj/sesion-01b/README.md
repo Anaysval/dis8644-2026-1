@@ -26,11 +26,9 @@
 
 - Know-what es historia. Saber el cómo pasó y el know-how es saber cómo se hicieron las cosas.
 
-![copa Mesa de trabajo 1](copa_Mesa de trabajo 1.png).
+![copa](FOLDER/copa_Mesadetrabajo1.png)
 
 - **Caudal:** corriente de agua que pasa por un lugar
-
-Caudal= h/oposición
 
 - Más oposición al flujo, menos agua. Más oposición al flujo, más agua
 
