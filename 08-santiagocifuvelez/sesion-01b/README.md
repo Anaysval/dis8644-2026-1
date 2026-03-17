@@ -44,6 +44,8 @@ Y la formula en la física, es:
 
 Ya con esto claro, el profesor precedió a pasar de la teoría a la práctica, pasándonos los elementos necesarios para realizar el ejercicio: la protoboard, el clip de batería, la batería, la luz led, y otros elementos más cuyos nombres no tengo presentes, y manos a la obra:
 
+(Mini video de como se veía)
+
 <a href="https://drive.google.com/file/d/131SRgDg_3Xw0F0CrGDG8Pfg3GBESx0ky/view?usp=drive_link">
   <img src="https://github.com/user-attachments/assets/cad0beae-2339-49e6-b38f-d364767254f5" width="500">
 </a>
