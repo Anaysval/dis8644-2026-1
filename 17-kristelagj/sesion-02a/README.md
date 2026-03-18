@@ -8,7 +8,7 @@ Referentes entregados
 
 1. Kraftwerk
 2. LCD Soundsystem
-3. Pierre Shaeffer (Tratado de los objetos musicales (1966))
+3. Pierre Shaeffer: Tratado de los objetos musicales (1966)
 4. Hainboch
 5. Oficina de la nada (Felipe Cussen)
 
