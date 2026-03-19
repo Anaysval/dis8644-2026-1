@@ -89,7 +89,8 @@ Mucho de las cosas que hacemos es por sentir algo (aaron)
 
 LCD Soundsystem.
 
-Cuando comenzamos a escucharlos en clases quedé impresionada con ellos, escuché con mucha atención todo, al principio pensé que eran británicos, pero no. Tienen un poco de esa impronta de la música británica de los 80 que me gusta, además que me recuerda mucho a la música que se ocupa en la serie Heartstopper que me encanta Además, cuando llegue a mi casa a escucharlos, me recordó a una pieza que tuve la oportunidad de escuchar en vivo que se llama “Short Ride in a Fast Machine” la cual cada instrumento de la orquesta es un sonido distinto. Cada que avanza, se van incorporando y generando nuevos sonidos. 
+
+Cuando comenzamos a escucharlos en clases quedé impresionada con ellos, escuché con mucha atención todo, al principio pensé que eran británicos, pero no. Tienen un poco de esa impronta de la música británica de los 80 que me gusta. Me recuerdo a varias cosas, por ejemplo la música que se ocupa en la serie Heartstopper que me encanta, cuando llegue a mi casa a escucharlos, me recordó a una pieza que tuve la oportunidad de escuchar en vivo que se llama “Short Ride in a Fast Machine” la cual cada instrumento de la orquesta es un sonido distinto. Cada que avanza, se van incorporando y generando nuevos sonidos y al album de Phil Collins “face Value” con su canción “ In the Air Tonight”
 
 Entonces comencé a pensar: ¿qué los hace parecidos y porque me gustan tanto? respondiendo así la pregunta que me llama la atención. Me encanta la recepción de sonidos y con ellos la creación de nuevos. Me gusta escucharlos en momentos en donde necesito mayor relajación, algo que sea constante al igual que mi concentración.
 
