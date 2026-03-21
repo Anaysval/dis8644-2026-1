@@ -40,6 +40,7 @@ Diodo es un componente electrónico semiconductor que actúa como un interruptor
 Terminal largo es positivo y terminal corto es negativo
 En la parte superior del LED se encuentran 2 triángulos, en donde e grande es el negativo, mientras que el pequeño es el positivo
 Tocar la cabeza del LED, y cuando sientas una parte plana, significa que ese lado es el negativo, mientras que el redondo es el positivo.
+
 **Cables dupont:** Son cables flexibles con conectores en los extremos que sirven para unir componentes en una placa de pruebas sin necesidad de soldar. Son el "pegamento" que comunica todas las piezas de tu proyecto.
 
 **Conector de batería:**
