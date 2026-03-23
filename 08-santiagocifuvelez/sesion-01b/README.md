@@ -1,12 +1,11 @@
 # sesion-01b
 
-13 de Marzo del 2026
+**13 de Marzo del 2026**
 
 ¡Hola!, Es Santi.
 Espero se encuentren bien cuando estén leyendo esta nota <3.
 
 Este registro, va a ser dividirlo en 3 partes:
-
 1.	La clase antes del receso donde aprendí a usar Github.
 2.	La clase después del receso donde tuve mi primer acercamiento a circuitos.
 3.	Texto sobre el documental “The internet’s own boy”
