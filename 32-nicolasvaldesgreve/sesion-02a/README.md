@@ -10,7 +10,7 @@
 
 ---
 
-## Apuntes clases
+## Apuntes clase 17/03
 
 Se nos entregaron los materiales en una caja, la cual traía dos potenciómetros B100k, cables Dupont, una protoboard, un parlante, cuatro chips, un broche de batería, 10 resistencias de 220, 10 resistencias de 1000, y una batería de 9v.
 
@@ -33,7 +33,7 @@ Se nos mostraron ejemplos de circuitos en la pizarra para enseñarnos que no sol
 
 #### Primer circuito
 
-![primer circuito](./imagenes/LQXTLC-1.jpg)
+![primer circuito](./imagenes/lqxtlc-1.jpg)
 
 | loquitoportilocoloco | D1  | D2  | D3  | D4  |
 | ---                  | --- | --- | --- | --- |
@@ -45,7 +45,7 @@ Se nos mostraron ejemplos de circuitos en la pizarra para enseñarnos que no sol
 
 #### Segundo circuito
 
-![segundo circuito](./imagenes/LQXTLC-2.jpg)
+![segundo circuito](./imagenes/lqxtlc-2.jpg)
 
 | loquitoportilocoloco | D1  | D2  | D3  |
 | ---                  | --- | --- | --- |
@@ -60,7 +60,7 @@ Se nos mostraron ejemplos de circuitos en la pizarra para enseñarnos que no sol
 
 #### Tercer circuito
 
-![tercer circuito](./imagenes/LQXTLC-3.jpg)
+![tercer circuito](./imagenes/lqxtlc-3.jpg)
 
 | loquitoportilocoloco | D1  | D2  | D3  | D4  |
 | ---                  | --- | --- | --- | --- |
@@ -91,4 +91,4 @@ La portada está inspirada en el artista ruso El Lissitzky y en el movimiento su
 
 Escuché el álbum Sound of Silver, publicado el 12/03/2007. Las canciones del álbum tienen ritmos repetitivos, lo cual hace que sea fácil de escuchar y que te guste, pero lo más interesante son las letras existencialistas de Murphy.
 
-La canción más famosa del álbum es "All my Friends", la cual habla sobre desamor, por lo cual la gente asume que fue inspirada respecto a una ruptura amorosa, pero la realidad es que Murphy se inspiró en la muerte de su psicólogo, el cual había fallecido poco antes de que se pusieran a grabar el álbum. En lo personal, "All my Friends" no es de mi gusto ya que las intros largas me aburren, pero en [esta presentación](https://www.youtube.com/watch?v=FlogJqMFaYA&list=RDFlogJqMFaYA&start_radio=1) me gusta bastante, ya que lo encuentro algo muy emocional, lo cual me permite conectar con la ésta. Mi canción favorita del álbum es "Sound of Silver", en específico los últimos minutos en donde se pueden escuchar lo que parecen ser metales chocando, lo cual me recuerda bastante a la canción ["Scared"](https://www.youtube.com/watch?v=Gvn_plPtgE4&list=RDGvn_plPtgE4&start_radio=1) de P1harmony, ya que el inicio de ésta canción es con ruidos metálicos, razón por la cual a muchos fans no les gusta solo por ésta introducción, pero a mi parecer, es bastante entretenido y bailable.
+La canción más famosa del álbum es "All my Friends", la cual habla sobre desamor, por lo cual la gente asume que fue inspirada respecto a una ruptura amorosa, pero la realidad es que Murphy se inspiró en la muerte de su psicólogo, el cual había fallecido poco antes de que se pusieran a grabar el álbum. En lo personal, "All my Friends" no es de mi gusto ya que las intros largas me aburren, pero en [esta presentación](https://www.youtube.com/watch?v=FlogJqMFaYA&list=RDFlogJqMFaYA&start_radio=1) me gusta bastante, ya que lo encuentro algo muy emocional, lo cual me permite conectar con ésta. Mi canción favorita del álbum es "Sound of Silver", en especial por los últimos minutos en donde se pueden escuchar lo que parecen ser metales chocando, lo cual me recuerda bastante a la canción ["Scared"](https://www.youtube.com/watch?v=Gvn_plPtgE4&list=RDGvn_plPtgE4&start_radio=1) de P1harmony, ya que el inicio de ésta canción es con ruidos metálicos, razón por la cual a muchos fans no les gusta solo por ésta introducción, pero a mi parecer, es bastante entretenido y bailable.

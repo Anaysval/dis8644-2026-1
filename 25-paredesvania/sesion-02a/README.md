@@ -31,17 +31,17 @@
 - **Circuito paralelo:** Son indepencientes. Según Gemini es una configuración donde los componentes (resistencias, bombillas) comparten los mismos nodos de entrada y salida, creando caminos independientes para la corriente. El voltaje es igual en todos los componentes, mientras que la corriente total se divide entre las ramas. Si uno falla, los demás siguen funcionando.
 
 ![esquemáticoParalelo](./imagenes/esquematico.png)
-![circuito1](./imagenes/circuitoParalelo.png)
-![circuito](./imagenes/paralelo.HEIC)
+![circuito1](./imagenes/circuito-paralelo.png)
+![circuito](./imagenes/circuito-paralelo.heic)
 
 - **Circuito en serie:** Según gemini es una configuración eléctrica donde los componentes (resistencias, bombillas, etc.) se conectan uno tras otro, creando un único camino para la corriente eléctrica. La intensidad de corriente es constante en todo el circuito, mientras que el voltaje total se distribuye entre los componentes y la resistencia total es la suma de las individuales.
 
-![esquematicoSerie](./imagenes/esquematicoSerie.png)
+![esquematicoSerie](./imagenes/esquematico-serie.png)
 ![circuito](./imagenes/circuito3.png)
-![circuito](./imagenes/serie.HEIC)
+![circuito](./imagenes/circuito-serie.heic)
 
 ![circuito2](./imagenes/circuitos.png)
-![circuito2](./imagenes/circuito.HEIC)
+![circuito2](./imagenes/circuito.heic)
 
 ## Encargo: LQXTLC
 
@@ -52,7 +52,7 @@ Ejemplo: Si quito "R5", solo se apaga "D3". El resto se mantiene encendida.
 ### Ejercicio 1
 
 ![Circuito 1](./imagenes/lqxtlc1.png)
-![Circuito 1](./imagenes/ejercicio1.HEIC)
+![Circuito 1](./imagenes/ejercicio-1.heic)
 
 | reesistencias  | D1    | D2    | D3    | D4    |
 | ---                   | ---   | ---   | ---   | ---   |
@@ -65,7 +65,7 @@ Ejemplo: Si quito "R5", solo se apaga "D3". El resto se mantiene encendida.
 ### Ejercicio 2
 
 ![Circuito 2](./imagenes/lqxtlc2.png)
-![Circuito 2](./imagenes/ejercicio2.HEIC)
+![Circuito 2](./imagenes/ejercicio-2.heic)
 
 | resistencias | D1 | D2 | D3 |
 | -------------------- | -- | -- | -- |
@@ -81,7 +81,7 @@ Ejemplo: Si quito "R5", solo se apaga "D3". El resto se mantiene encendida.
 ### Ejercicio 3
 
 ![Circuito 3](./imagenes/lqxtlc3.png)
-![Circuito 2](./imagenes/ejercicio3.HEIC)
+![Circuito 2](./imagenes/ejercicio-3.heic)
 
 | resistencias | D1 | D2 | D3 | D4 |
 | -------------------- | -- | -- | -- | -- |
@@ -92,3 +92,68 @@ Ejemplo: Si quito "R5", solo se apaga "D3". El resto se mantiene encendida.
 | R5                   | 1  |  1 |  1 | 1  |
 | R6                   |  1 |  1 |  1 |  1 |
 
+#### Encargo
+
+1. hacer los ejercicios anteriores y documentar los resultados.
+2. elegir un disco particular de Kraftwerk, investigar avances de esa era, contexto de grabación, revisar presentaciones en vivo de esa época y contrastar con actuales. explicar qué escuchas en el disco, qué te llama la atención, describir en largo, no en corto.
+3. lo mismo que 2 pero con un disco de LCD Soundsystem.
+
+#### Análisis artistas
+
+#### LCD Soundsystem
+Me sorprendió caleta que me haya gustado. No era lo que esperaba para nada, sobre todo porque es música electrónica, y pensé que iba a ser más fría.
+
+Siento que tiene una onda bien ochentera, como medio nostálgica. Escuché el disco American Dream de LCD Soundsystem, y leí que lo hicieron después de separarse, lo que lo hace más interesante porque se siente más cargado emocionalmente.
+
+**Contexto y avances de la época:** Este disco salió en 2017, cuando la música digital ya está full desarrollada. Existen programas como Ableton o Pro Tools que permiten producir con mucha libertad, mezclar sonidos digitales con análogos y editar todo con mucha precisión.
+
+**En sus shows:** antes ya tocaban como banda, ahora siguen igual, pero con mejor sonido y visuales más trabajados. No hay un cambio tan extremo,se siente más como concierto que como show tecnológico(?
+
+**Qué me gustó:** Me gustó mucho siendo sincera jaja. Repiten harto, pero no aburre, y eso fue lo que más me llamó la atención. Van sumando sonidos de a poco, entonces la canción crece sin que te des cuenta.
+
+Mi canción favorita fue “American Dream”, la encontré súper relajante, muy en la onda de música que me gusta escuchar. No esperaba eso de la electrónica.
+
+Lo único que no me gustó tanto fue la portada, siento que no le hace justicia a lo bacán que es el álbum.
+
+#### Kraftwerk
+Con Kraftwerk me pasó distinto. Al principio no me gustaron tanto como LCD Soundsystem, pero igual se nota altiro que son unos secos y que saben demasiado lo que hacen.
+
+Escuché el disco 3-D The Catalogue, y entendí que es como una recopilación de su carrera, pero reinterpretada con tecnología más actual.
+
+**Contexto y avances (antes vs ahora):** Kraftwerk partió en los 70, cuando la música electrónica recién estaba empezando. Usaban sintetizadores analógicos, máquinas básicas y muchas cosas hechas por ellos mismos.
+
+No existían las herramientas digitales de hoy, entonces todo era más limitado, pero igual lograban un sonido súper definido.
+
+En este disco (3-D The Catalogue), toman toda esa música antigua y la actualizan con tecnología moderna:
+
+* sonido más limpio
+* visuales digitales
+* shows mucho más producidos
+
+**En vivo** (antes vs ahora)
+
+Antes:
+* casi no se movían
+* todo súper rígido
+* estética minimalista
+
+Ahora:
+* usan visuales en 3D
+* todo está sincronizado (audio + imagen)
+* sigue siendo frío, pero más “espectáculo”
+* 
+Es como pasar de algo muy simple a algo mucho más inmersivo.
+
+#### Qué me llamó la atención
+
+* las voces como de robot
+* la repetición constante
+* Siento que es mucho menos emocional que LCD. Es más mecánico, más frío.
+
+Igual lo encontré interesante, sobre todo por cómo mezclan lo visual con lo musical, pero no es algo que escucharía por gusto.
+
+#### Fuentes
+
+* https://indiehoy.com/videos/lcd-soundsystem-all-my-friends-hecho-de-legos
+* https://es.wikipedia.org/wiki/American_Dream
+* https://es.wikipedia.org/wiki/Música_electrónica
