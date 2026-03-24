@@ -43,6 +43,9 @@ Volviendo al ejemplo de la reserva de agua del profesor:
 
 *Mientras más angosta (más resistencia), menos agua pasa.*
 
+Les voy a explicar como funciona: 
+![resistencias period](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/img5.jpg)
+
 #### Código de color de resistencias 
 
 ![resistencias](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/img4.jpeg)
