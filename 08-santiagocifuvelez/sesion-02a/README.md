@@ -54,6 +54,8 @@ Les voy a explicar como funciona:
 
 ## 3. Aprendimos a leer circuitos esquemáticos  para volverlos realidad en nuestra protoboard.
 
+![lectura esquemática](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/img6.jpg)
+
 ## 4. Entrega de ejercicios
 ![Ejercicio 1](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/ej-1.jpg)
 
