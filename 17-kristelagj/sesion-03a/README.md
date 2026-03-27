@@ -76,5 +76,16 @@ Reconocer cada componente
  
 El nombre nos ayuda a hacer referencia a partes en el esquemático
 
+→ Los esquemáticos deberían ser divididos en bloques funcionales:
+
+ ↳ sección entrada
+ 
+ ↳ regulador de voltaje
+ 
+ ↳ sección conectores
+ 
+Intentar reconocer a qué corresponde y seguir el flujo de entrada a salida.
+
+
 https://cursos.mcielectronics.cl/2019/06/18/como-leer-un-esquematico/
 
