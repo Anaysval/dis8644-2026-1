@@ -94,6 +94,25 @@ El nombre nos ayuda a hacer referencia a partes en el esquemático
  
 Intentar reconocer a qué corresponde y seguir el flujo de entrada a salida.
 
+Rastrea conexiones
+ → Cada línea es un cable. Muestran cómo se realizan las conexiones y rutas por donde fluye corriente.
+ 
+ → Sigue la línea por donde fluye la carga hasta llegar a que junte. Es importante: observar si es en serie o en paralelo.
+ 
+**Conectados en serie:** misma corriente fluye a través de ellos.
+
+ **Conectados en paralelo:** comparten la misma tensión entre sus terminales.
+
+Enlaces, Nodos, Etiquetas
+
+**Enlaces:** cómo los componentes están conectados en un circuito. Representados como líneas entre componentes y terminales.
+
+Nodo es un punto en el circuito donde se conectan 2 o más componentes. Indica que todos los componentes conectados a ese nodo comparten el mismo voltaje.
+
+Nodo es una unión donde la corriente puede dividirse o fusionarse. Los cables pueden conectar 2 terminales o más. Cuando un cable se separa en 2 direcciones esto crea una unión
+
+ → La ausencia de nodo significa que 2 cables separados solo están pasando
+
 
 https://cursos.mcielectronics.cl/2019/06/18/como-leer-un-esquematico/
 
