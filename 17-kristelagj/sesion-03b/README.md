@@ -1,5 +1,5 @@
 # sesion-03b
-## Clase 170326
+## Clase 270326
 
 ### pre-clase (teloneo Aaron)
 
