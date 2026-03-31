@@ -60,6 +60,9 @@ La **resistencia equivalente** es el valor único que reemplaza varias resistenc
 - Uno de sus diseños con el 556 fue redescubierto y bautizado como **Atari Punk Console**, por su sonido retro y estilo DIY.  
 
 ---
+##  Conclusión
+En esta clase **realizamos circuitos** con resistencias equivalentes, el 555 en modo monoestable y el Atari Punk Console.  
+Aunque hubo errores de conexión y un chip quemado pipipi , logramos corregirlos y experimentar con el funcionamiento real de ambos diseños.
 
 
 
