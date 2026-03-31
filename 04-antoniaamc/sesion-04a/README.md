@@ -7,10 +7,10 @@ Qué es
 ejemplo minecraft
 
 Medida resistencias (Ohm)
-1.000.000.000: Giga
-1.000.000: Mega
-1.000: Kilo
-1: 
++ 1.000.000.000: Giga
++ 1.000.000: Mega
++ 1.000: Kilo
++ 1: 
 
 Medida condensadores (Faradio)
 1:1000= 0,001 (mili)
