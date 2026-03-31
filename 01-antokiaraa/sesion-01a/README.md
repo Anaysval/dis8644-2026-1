@@ -7,10 +7,10 @@ martes 10 de marzo
 - LED: diodo que emite luz al pasar corriente.
   - Ánodo (+): pata larga
   - Cátodo (–): pata corta / lado plano
- 
+
 - Sintetizador: sistema que genera sonido a partir de señales eléctricas.
 
-## Encargo 01
+## encargo-01a
 
 ### Sisters with Transistors
 
@@ -20,7 +20,7 @@ El documental Sisters with Transistors muestra cómo muchas mujeres encontraron 
 
 ### Delia Derbyshire
 
-Nació en 1937 en Coventry, Reino Unido. Desde joven mostró interés por la música y la ciencia. Estudió matemáticas y música en la Universidad de Cambridge, lo que más adelante influyó en su forma de trabajar con el sonido. 
+Nació en 1937 en Coventry, Reino Unido. Desde joven mostró interés por la música y la ciencia. Estudió matemáticas y música en la Universidad de Cambridge, lo que más adelante influyó en su forma de trabajar con el sonido.
 
 Al principio fue rechazada por la industria. En Decca Records (sello discográfico) le dijeron directamente que no contrataban mujeres en sus estudios. Sin embargo, en 1960 logró entrar a la BBC, donde se unió al Radiophonic Workshop, un laboratorio dedicado a crear efectos sonoros y música experimental para programas de radio y televisión.
 
@@ -36,10 +36,8 @@ El trabajo de Delia Derbyshire es importante porque cambió la forma en que se e
 
 ### Referencias
 
-Butler, D. (2018). Delia Derbyshire. BBC. https://www.bbc.com/historyofthebbc/100-voices/pioneering-women/women-of-the-workshop/delia-derbyshire
+Butler, D. (2018). Delia Derbyshire. BBC. <https://www.bbc.com/historyofthebbc/100-voices/pioneering-women/women-of-the-workshop/delia-derbyshire>
 
-Derbyshire, D. (s.f.). Delia Derbyshire. Wikipedia. https://en.wikipedia.org/wiki/Delia_Derbyshire
+Derbyshire, D. (s.f.). Delia Derbyshire. Wikipedia. <https://en.wikipedia.org/wiki/Delia_Derbyshire>
 
 Rovner, L. (2020). Sisters with Transistors.
-
-
