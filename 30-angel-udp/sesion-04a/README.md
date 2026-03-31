@@ -22,3 +22,38 @@ Herramienta (falstad circuit simulator) the B2B portal for restaurants, wineries
 
 Se puede copiar y pegar un tipeo el cual sirve para la web Falstad con el circuito
 
+EL astable tiene ondas que suben y bajan a cada momento (AS)
+
+En cambio el mono stable nesecita un impulso para subir (MS)
+
+            AS - MS = APC
+
+          Módulo    Módulo
+
+La para cuatro se llama: Reset y cuando esta conectado directamente a positivo está inhabilitado
+
+osea que si reset es positivo: va a oscilar
+
+si reset no es positivo (osea negativo): no hay oscilación
+
+
+asi que la pata 3 del primer chip habilita la pata 4
+
+Entre el Condensador de salida y el parlante 
+
+
+### ENCARGO
+
+0. Destruir de forma creativa un chip si murio
+   
+1. CACHURERA: extirpar los cables, las placas (y estas placas también tienen un orden) y cosas de algo electronico de algo quiera sacrificar, ver como está disecionado y poner fotos y textos de como funciona y describirlos con nuestra imaginación EJ: perilla de **mucho atao** a **Poco atao**
+
+ hay muchas cosas como (placa verde, carcaza, perilla, botones,) decifrar como sacan energia? Que cosa esta afuera y que cosa está adentro
+
+ + NO ABRIR (Micro ondas o TV Antigua) condensadores muy grandes como latas
+
+ + No hacerlo a pata pelada
+
+ + No hacerlo con nada enchufado
+
+Que es lo superficial, que es lo interno escondido y como funcionan sus partes
