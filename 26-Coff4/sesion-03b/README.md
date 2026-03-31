@@ -16,11 +16,15 @@ Intervenimos un circuito con un botón.
 
 Aunque aún me sigue costando leer los esquemáticos, de a poco voy mejorando e hice este de forma más autónoma
 
-![Circuito con el parlante](./imagenes/boton.jpg)
+![Circuito con boton](./imagenes/boton.jpg)
+
+[![Ver video](https://img.youtube.com/vi/mCeBHSj1K2s/0.jpg)](https://www.youtube.com/watch?v=mCeBHSj1K2s)
+
+[![Ver video](https://img.youtube.com/vi/gqu8ihyLlnI/0.jpg)](https://www.youtube.com/watch?v=gqu8ihyLlnI)
 
 Cabe destacar que lo hice otra vez mal por la lenteja...demonios
 
-![Circuito con el parlante](./imagenes/parlante.jpg)
+[![titilante](https://img.youtube.com/vi/kapG2-ya0MI/0.jpg)](https://www.youtube.com/watch?v=kapG2-ya0MI)
 
 ---
 
@@ -30,7 +34,7 @@ Robert Forrest Mims
 Radioshack
 Atari Punk Console: Astable conectado a un monostable que sale a un parlante
 
-![Circuito con el parlante](./imagenes/atari-punk.jpg)
+![Atari console](./imagenes/atari-punk.jpg)
 
 
 ---
@@ -43,6 +47,11 @@ Lo loco es lo mucho que fallé por errores tan simples. Gracias a quienes me ayu
 
 - y si, todo se resume en conectar mal las cosas, pero al final si funcionó!
 
+[![funciona](https://img.youtube.com/vi/ITuZQMOAjr4/0.jpg)](https://www.youtube.com/watch?v=ITuZQMOAjr4)
+
+[![Pain](https://img.youtube.com/vi/jl1xaJP4uyk/0.jpg)](https://www.youtube.com/watch?v=jl1xaJP4uyk)
+
+
 - Aunque voy a dejar esta imagen que ya compartí por Discord para la posteridad. (Son las equivalencias de las lentejas)
 
-![Circuito con el parlante](./imagenes/numeros.jpg)
+![lentejas](./imagenes/numeros.jpg)
