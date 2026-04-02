@@ -81,13 +81,13 @@ graph TD
 
 ### Ejercicio en clase
 
-![555](./imagenes/monoyastable.heic)
-![555](./imagenes/fotoresistor.heic)
+![555](./imagenes/mono-astable.heic)
+![555](./imagenes/foto-resistor.heic)
 
 No nos funcionó a la primera porque no conectamos las tierras (tood el circuito tiene solo una tierra (GND)
 
 Cambiamos el fotoresistor por un potenciometro para probar cosas ;))))
-![555](./imagenes/potenciometro.heic)
+![555](./imagenes/pot.heic)
 
 Luego conectamos un potenciometro para controlar el volumen:
-![555](./imagenes/volumenpot.heic)
+![555](./imagenes/volumen.heic)
