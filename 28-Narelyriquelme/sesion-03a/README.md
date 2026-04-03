@@ -2,7 +2,7 @@
 ## Apuntes
 ### chip 555
 
-gift
+![gif 555](./imagenes/timer-chip555.gif) 
 
 Explicacion de gemini: Imagina que el chip 555 es como un vigilante que controla un tanque de agua (el capacitor). Su único trabajo es abrir y cerrar llaves siguiendo dos reglas muy simples:
 + Llenado: Cuando el tanque está casi vacío (llega a 1/3), el vigilante enciende la luz y deja que el agua entre. El agua sube lentamente porque tiene que pasar por unos tubos estrechos (las resistencias).
