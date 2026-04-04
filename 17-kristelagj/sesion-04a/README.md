@@ -11,12 +11,27 @@ Se nos mencionó que tenemos 1 semana para poder rellenar después de dados los 
 
 - Misaa
 
+- Misaa
+
 A Partir de las sugerencias, vimos algunas cosas un poco más lento como el circuito astable y monoestable que hemos visto (falta el biestable)  
 
 (foto)
 
 Misaa nos comentó que el ejercicio que vimos la semana pasada era poco académico porque las probabilidades de que fallara eran muy altas, entonces ahora hicimos una variante de esta y nos funcionó (atari punk console)
 
+(hacer tabla de notación científica de resistencias y condensadores)
+
+Para los condensadores no polarizados el último dígito es equivalente a 0; Por ejemplo, 104 equivale a 10.000 pF
+
+- https://www.falstad.com/circuit/
+- axidraw
+- evil mad scientist
+- meneología
+- Aniquilar 555
+
+Si el pin 4 del 555 está conectado a tierra nunca va a tener reseteo 
+
+(foto)
 
 ### imagenes de proceso
 
