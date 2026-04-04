@@ -74,6 +74,8 @@ Condensadores:
 
 2. Sección B
 
+Resistencias:
+
 | # | Banda 1 | Banda 2 | Banda 3 | Banda 4 | Banda 5 | Banda 6 |
 |---|--------|--------|--------|--------|--------|--------|
 | 1 | rojo   | café   | café   | amarillo | amarillo | rojo   |
@@ -85,9 +87,26 @@ Condensadores:
 | 7 | rojo   | café   | café   | café     | rojo     | rojo   |
 | 8 | rojo   | café   | café   | amarillo | morado   | rojo   |
 
+Condensadores:
+
 | # | Capacitancia | Voltaje |
 |---|-------------|--------|
 | 1 | 1000 µF     | 35 V   |
 | 2 | 10 µF       | 63 V   |
 | 3 | 100 µF      | 35 V   |
 | 4 | 100 µF      | 16 V   |
+
+3. Sección C
+
+Resistencias:
+
+Condensadores:
+
+4. Sección D
+
+Resistencias:
+
+Condensadores:
+
+
+
