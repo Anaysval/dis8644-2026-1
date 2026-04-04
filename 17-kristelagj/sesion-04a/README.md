@@ -107,6 +107,11 @@ Condensadores:
 
 Resistencias:
 
+| # | Banda 1 | Banda 2 | Banda 3 | Banda 4 | Banda 5 | Banda 6 |
+|---|--------|--------|--------|--------|--------|--------|
+| 1 | rojo   | café   | naranja | blanco  | blanco  |  amarillo        |
+| 2 | rojo   | café   | dorado  | café    | rojo    | rojo   |
+
 Condensadores:
 
 
