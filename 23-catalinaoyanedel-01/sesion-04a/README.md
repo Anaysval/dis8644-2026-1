@@ -3,14 +3,14 @@
 ## apuntes de la clase
 
 
-![apuntes sobre circuitos monostable y astable](./imagenes/apuntes_04b.jpg)
+![apuntes sobre circuitos monostable y astable](./imagenes/apuntes-04b.jpg)
 
 ### circuito monostable hecho
 
 el primero que hago sin preguntar, se logró!!
 
-![circuito prendido y apagado](./imagenes/circuito_monostable.jpg)
+![circuito prendido y apagado](./imagenes/circuito-monostable.jpg)
 
 ### circuito monostable y astable conectados
 
-![circuitos conectados](./imagenes/circuito_conectado.jpg)
+![circuitos conectados](./imagenes/circuito-conectado.jpg)
