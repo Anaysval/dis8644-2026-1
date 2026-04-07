@@ -145,7 +145,7 @@ La letra "B" indica que el cambio de resistencia es constante y proporcional al 
 
 **Type case:** Investigando sobre otro tema de interés, encontré una joya (para mi) que mezcla el rubro en el cual me desenvuelvo día a día y en que me estoy adentrando ahora que se llama “type case” realizado por Martin Bircher, dicho en sus propias palabras es una pantalla de baja resolución con 125 píxeles rectangulares de diferentes tamaños. Estos se forman a partir de la luz reflejada de LED controlados digitalmente, integrados en cada sección de una caja de tipos de imprenta europea. ¡esto es increíble!, cada uno tiene la misma cantidad de luz, pero gracias a que cada espacio tiene distintos tamaños, crea distinta cantidad de luz y sombra. Por ejemplo, la cavidad de la letra E es menor a la de la letra M ya que esta se ocupa menos que cualquier vocal. Eso si, no logro distinguir si se ocupó una caja para altas (mayúsculas) o bajas (minúsculas). 
 
-![type](imagenes/type_case.jpg)
+![type](imagenes/type-case.jpg)
 
 ### Preguntas
 
