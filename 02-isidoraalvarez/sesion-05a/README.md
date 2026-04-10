@@ -24,6 +24,37 @@ que significa synthesizer
 
 
 
+## **Encargo**
+
+Un Schmitt Trigger es un circuito electrónico que sirve para transformar una señal inestable o con ruido en una señal limpia y clara. 
+La cual funciona usando dos niveles distintos para cambiar de estado, uno para pasar de apagado a encendido y otro para volver de encendido a apagado, lo que evita que pequeñas variaciones hagan que la señal cambie constantemente. 
+Este actúa como un filtro inteligente que solo responde cuando la señal es suficientemente fuerte o suficientemente baja, ignorando cambios pequeños o dudosos.
+
+![schmitt trigger](./imagenes/schmitt-trigger-esquema.png)
+
+
+## https://descubrearduino.com/schmitt-trigger-que-es-y-como-funciona/
+
+## https://en.wikipedia.org/wiki/Schmitt_trigger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
