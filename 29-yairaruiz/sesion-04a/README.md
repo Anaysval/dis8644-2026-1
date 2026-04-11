@@ -3,13 +3,12 @@
 ## 1. Desarmar y proceso ##
 **Dispositivo: Mouse con cable (tipo óptico)**
 
-
+![disposiivo](./imagenes/dispositivo.jpg)
 
 **Paso 1: Apertura**
 Se retira el tornillo ubicado en la parte inferior del mouse visible en la base. Luego, se separan las dos mitades de la carcasa: superior e inferior.
 
-
-
+![disposiivo2](./imagenes/dispositivo2.jpg)
 
 **Paso 2: Separación de piezas**
 Al abrirlo, se distinguen claramente:
@@ -19,12 +18,12 @@ Al abrirlo, se distinguen claramente:
 + La PCB en la base. 
 + La rueda scroll está montada sobre un eje que le permite girar y transmitir ese movimiento a un sensor en la placa.
 
-
+![disposiivo3](./imagenes/dispositivo3.jpg)
 
 **Paso 3: Exposición de la PCB**
 Se observa la placa principal donde están montados los componentes electrónicos. Esta se mantiene conectada al cable USB y a los elementos mecánicos (rueda y botones).
 
-
+![disposiivo4](./imagenes/dispositivo4.jpg)
 
 ## 2. Elementos de la PCB identificados ##
 + Chip (IC – circuito integrado):
