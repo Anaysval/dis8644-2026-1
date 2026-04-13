@@ -1,5 +1,5 @@
 # sesion-05b
-vie, 3 abr
+10 abr
 ## Apuntes 
 ![apuntes](./imagenes/apuntes.jpg)
 
