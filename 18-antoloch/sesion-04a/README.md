@@ -89,8 +89,9 @@ También documenté las conexiones:
 - La **batería** se inserta en su compartimento y conecta con terminales metálicos.  
 - El **LED** se alinea con la ventana de la carcasa para transmitir la señal.
 
-  fotossssssssss
-
+ ![control](./imagenes/control.jpeg)
+ ![control01](./imagenes/control01.jpeg)
+ ![control02](./imagenes/control02.jpeg)
 Nunca antes había desarmado un dispositivo por mi cuenta, y aunque este control es sencillo, la experiencia me sorprendió. Descubrí que detrás de cada pieza hay una lógica silenciosa que sostiene la interacción cotidiana. Me gustaría aprender más sobre las placas, porque siento que son como mapas de energía y comunicación, un mundo que nunca imaginé que podía explorar y desarrollar. Lo que parecía básico se transformó en una puerta hacia un universo desconocido, lleno de posibilidades.  
 
 ---
