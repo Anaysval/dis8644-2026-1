@@ -22,6 +22,6 @@ inhibir
 
 ### ejercicio en clase clock generator
 
-junto a anays cornejo hicimos el ejercicio que misa explico en clase, que consiste en un circuito secuenciador, donde las luces led prenden en distinto tiempo
+junto a anays cornejo hicimos el ejercicio que misa explico en clase, que consiste en un circuito secuenciador, donde las luces led prenden en distinto tiempo. Al inicio no funcionaba y no entendiamos porque, preguntamos a Aaron e hicimos unos cambio, tampoco funcionaba. Llego Misa, lo reviso, hicimos cambios y nada. Al final, era el chip que estaba muerto. Pusimos otro chip 4017 y lo logramos :).
 
-falta poner video
+https://github.com/user-attachments/assets/c30e37ca-c760-4df6-aeda-6f777cbaafc6
