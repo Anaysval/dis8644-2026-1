@@ -39,8 +39,10 @@ No se usa directamente para escuchar sonido, sino para modular otros parámetros
 
 As a way of sumary:
 
-![vcvrackkkk](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img1.png)
+![sumary](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img1.png)
 
 ## 3.	Todo es un ritmo y hay diferentes tipos de Ondas que componen estos.  
 
-![vcvrackkkk](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img2.png)
+![Tododaigual](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img2.png)
+
+![ondess](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/ondas.png)
