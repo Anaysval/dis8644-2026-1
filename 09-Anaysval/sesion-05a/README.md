@@ -15,10 +15,13 @@ Cuando este cambio entre 0 y 1 ocurre muchas veces por segundo, se genera una se
 
 ### VCV RACK
 
-Es un programa para armar sintetizadores virtuales, basado en módulos que se conectan entre sí.
+Es un programa para armar sintetizadores virtuales, basado en módulos que se conectan entre sí. (<https://vcvrack.com/>)
+ 
 
 - Las conexiones de entrada y salida están marcadas visualmente
 - El gate actúa como un interruptor que deja pasar o corta la señal
+
+### Conceptos importantes:
 
 - VC: algo que se controla mediante voltaje
 - VCO: genera las ondas (sonido)
@@ -30,10 +33,12 @@ Es un programa para armar sintetizadores virtuales, basado en módulos que se co
 
 ### Formas de onda
 
-- Seno: sonido puro, sin componentes extra
-- Triángulo: parecido al seno, pero con más contenido armónico
-- Cuadrada: sonido más artificial, típico de consolas antiguas
-- Sierra: muy rica en armónicos, más agresiva
+- Seno: Es la forma más simple y suave. No tiene cambios bruscos, por eso suena muy limpia, casi como un tono puro sin “textura”. Se percibe más tranquila y estable que las demás.
+- Cuadrada: Pasa de un valor a otro de forma instantánea, sin transición. Eso hace que suene más fuerte y artificial, muy asociada a sonidos electrónicos o de videojuegos antiguos.
+- Triángulo: Tiene cambios más progresivos que la cuadrada, formando líneas rectas. Suena más suave, pero con un poco más de cuerpo que la senoidal, quedando en un punto intermedio.
+- Sierra: Aumenta de forma continua y luego cae de golpe. Esto genera un sonido más intenso y cargado, con mayor riqueza, por lo que se usa para lograr timbres más complejos.
+
+![foto](./imagenes/ondas.png)
 
 ---
 
@@ -47,11 +52,15 @@ Las compuertas lógicas permiten tomar decisiones dentro de un circuito usando v
 - XOR → da 1 cuando las entradas no coinciden
 - NAND → es lo opuesto a AND (solo da 0 cuando ambas son 1)
 
+![foto](./imagenes/compuertas.png)
+
 --- 
 
 ### Chip 4093
 
 El 4093 es un circuito integrado usado en electrónica digital. Contiene 4 compuertas NAND en un solo chip.
+
+![foto](./imagenes/chip.png)
 
 ### Características principales
 
@@ -66,8 +75,8 @@ Incluye Schmitt Trigger, lo que ayuda a:
 
 - Pin 14 → VCC (voltaje, por ejemplo 9V o 5V)
 - Pin 7 → GND (tierra)
-  
-Cada compuerta tiene 2 entradas y 1 salida:
+
+### Cada compuerta tiene 2 entradas y 1 salida:
 
 ### Compuerta 1
 Pin 1 → Entrada A
@@ -99,3 +108,15 @@ Pin 12 → Entrada A
 Pin 13 → Entrada B
 
 Pin 11 → Salida
+
+### Ejercicio en clases, Chip 4093 y LM386
+
+(El LM386 es un chip que sirve para amplificar sonido)
+
+![foto](./imagenes/1ejercicio.png)
+
+SUBIR VIDEO EJERCICIO
+
+![foto](./imagenes/2ejercicio.png)
+
+SUBIR VIDEO EJERCICIO
