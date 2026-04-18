@@ -43,21 +43,20 @@ Cantautora y multiinstrumentista estadounidense, Anne Erin "Annie" Clark (Tulsa,
 Diseñó su propia guitarra eléctrica en colaboración con Ernie Ball Music Man. Pensada para su forma de tocar. Ajustó el cuerpo (guitarra) para que fuera más ergonómico con su cuerpo (St. Vincent), modificó la distribución de controles y buscó un sonido que funcionara tanto limpio como con distorsión.
 
 Fuentes: 
+- Su [página de Wikipedia](https://es.wikipedia.org/wiki/St._Vincent_(cantante))
 - [Luthier Magazine](https://luthiermagazine.com/st-vincent-goldie-de-musicman-la-guitarra-de-diseno-que-encontre-en-directo/)
-- Su [pagina de Wikipedia](https://es.wikipedia.org/wiki/St._Vincent_(cantante))
 
+![bitacora-05-b](./imagenes/st-vincent-collach-bitacora-05-b-antoniaamc.jpg.jpg)
 
-1 y 2. StV en 2018 u_u :D ([link](https://es.wikipedia.org/wiki/St._Vincent_(cantante))
-3 y 5. StV entrevista Vogue (2014). ([link](https://www.vogue.co.uk/article/five-minutes-with-st-vincent))
-4. Guitarras StV.
+1 y 2. StV en 2018 u_u :D ([link](https://es.wikipedia.org/wiki/St._Vincent_(cantante))  
+3 y 5. StV entrevista Vogue (2014). ([link](https://www.vogue.co.uk/article/five-minutes-with-st-vincent))  
+4. Guitarras StV.  
 6. Su firma, me gusta. ([link](https://es.wikipedia.org/wiki/St._Vincent_(cantante)#/media/Archivo:AnnieAutograph.png)
-
-# Interfaz instrumento
 
 - **Wingdings:** tipografía críptica.
 
-  
-
+♋︎●︎♑︎□︎ ♋︎⬧︎◻︎ ⬧︎♏︎ ❖︎♏︎  
+◻︎□︎❒︎ ❑︎◆︎◻︎ ♒︎♋︎⍓︎ ⧫︎♋︎■︎⧫︎□︎⬧︎ ♏︎⬧︎♍︎□︎❒︎◻︎♓︎□︎
 
 ---------------------------------------------
 
@@ -159,9 +158,7 @@ Contador por décadas (Decade counter / walking ring counter)
 | 16  | VCC              | Voltaje positivo de alimentación (+V). |
 
 
-
 # ARREGLAR
-
 
   tierra / 9 byts
 
