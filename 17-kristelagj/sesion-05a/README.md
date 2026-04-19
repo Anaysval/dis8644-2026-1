@@ -11,6 +11,12 @@ Hoy se nos presentó que realizaremos de primera entrega: un sintetizador
 
 **Oscilador:** tomar un gesto para que sea suficientemente amigable
 
+| Sigla | Nombre completo                          | Descripción                                                                 | Función principal                          | Parámetro controlado     |
+|-------|------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------|--------------------------|
+| VCA   | Amplificador Controlado por Voltaje      | Ajusta la ganancia de una señal de audio según un voltaje externo          | Controlar el volumen/amplitud              | Ganancia (amplitud)      |
+| VCF   | Filtro Controlado por Voltaje            | Moldea el timbre del sonido filtrando frecuencias                          | Filtrar armónicos de la señal              | Frecuencia de corte      |
+| VCO   | Oscilador Controlado por Tensión         | Genera señales periódicas cuya frecuencia depende del voltaje de entrada   | Generar la señal base (onda)               | Frecuencia (pitch)       |
+
 ![RUIDO](imagenes/ruido.jpg)
 
 ### imagenes de proceso
