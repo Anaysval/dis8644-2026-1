@@ -27,8 +27,10 @@ Esta clase fue de solo hacer, nos entregaron el fé de erratas y manos a la obra
 
 Además nos enseñaron cómo elegir fuentes de poder (justo nadie trajo bateria de mi grupo, la salvación)
 
-Podemos elegir de 9V, de 12V (baterÍas de autos y paneles solares) y 5V (USB-A)
-
+Podemos elegir entre: 
+1. 9V (la que utilizamos)
+2. 12V (baterÍas de autos y paneles solares)
+3. 5V (USB-A)
 
 ![USB-A](imagenes/usb-a.jpg)
 
