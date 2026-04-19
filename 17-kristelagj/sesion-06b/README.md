@@ -24,6 +24,10 @@ Esta clase fue de solo hacer, nos entregaron el fé de erratas y manos a la obra
 
 ![fe de erratas](imagenes/fe-de-erratas.jpg)
 
+Además nos enseñaron cómo elegir fuentes de poder (justo nadie trajo bateria de mi grupo, la salvación)
+
+Podemos elegir de 9V, de 12V (baterÍas de autos y paneles solares) y 5V (USB-A)
+
 
 
 ### imagenes de proceso
