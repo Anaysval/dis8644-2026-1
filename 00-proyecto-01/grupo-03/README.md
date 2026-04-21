@@ -8,8 +8,7 @@
 
 ## descripción del sintetizador realizado
 
-Construimos un sintetizador a partir de 4 secciones que describiremos como: Clock Generator construido a partir de un chip 555 (el C1 "condensador" y RV1 "potenciometro" controlan la frecuencia del clock) además de conectar el capacitor cerámico cerca del chip para brindarle mayor estabilidad a esta parte del circuito en concreto y posteriormente se le agregará también uno a cada chip del circuito con el fin de que tengan un circuito estable. La iguiente parte es el Secuenciador que se hace con el chip 4017, el cual tiene un led por cada conexión STEP
- "son 4" y a este se le conecta el Clock para poder comprobar que los electrones estan fluyendo correctamente por el circuito y esto nos lo dicen los leds encendiendose en secuencia uno despues de otro. 
+Construimos un sintetizador a partir de 4 secciones que describiremos como: Clock Generator construido a partir de un chip 555 (el C1 "condensador" y RV1 "potenciometro" controlan la frecuencia del clock) además de conectar el capacitor cerámico cerca del chip para brindarle mayor estabilidad a esta parte del circuito en concreto y posteriormente se le agregará también uno a cada chip del circuito con el fin de que tengan un circuito estable. La iguiente parte es el Secuenciador que se hace con el chip 4017, el cual tiene un led por cada conexión STEP "son 4" y a este se le conecta el Clock para poder comprobar que los electrones estan fluyendo correctamente por el circuito y esto nos lo dicen los leds encendiendose en secuencia uno despues de otro. 
 
 
 imagen del sintetizador en su contexto
