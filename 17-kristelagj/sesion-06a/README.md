@@ -38,4 +38,4 @@ Por ejemplo, si algo se enciende el 18°C y apaga con el 24°, no estará encend
 
 En esta clase ya nos adentramos a realizar el sintetizador, a algunos les funciono, pero a nosotros solo nos funcionó la primera parte (555 y 2017)
 
-![sintetizador](imagees/sintetizador.png)
+![sintetizador](imagenes/sintetizador.png)
