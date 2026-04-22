@@ -23,6 +23,9 @@ Por ejemplo, si algo se enciende el 18°C y apaga con el 24°, no estará encend
 
 ![histeresis](imagenes/histeresis.png)
 
+El chip 4011 es el único NAND sin Schmitt Trigger y el 4069 es un inversor.
+
+Existe ua serie completa de chip 4000, al igual que hay de 7000
 
 ### post-clase
 
