@@ -21,11 +21,15 @@ Es importante saber que la vida no es una grilla y eso también lo saben los chi
  
 Por ejemplo, si algo se enciende el 18°C y apaga con el 24°, no estará encendido y apagado en 20°C. Entonces cuando la temperatura baje a 18°C el calefactor encenderá, pero cuando llegue a 24° se apagará. 
 
+- Las imperfecciones se filtraran y las transiciones serán más estables (eliminará ruido)
+- Las compuertas NAND están hechas con Schmitt Trigger
+
+
 ![histeresis](imagenes/histeresis.png)
 
-El chip 4011 es el único NAND sin Schmitt Trigger y el 4069 es un inversor.
-
-Existe ua serie completa de chip 4000, al igual que hay de 7000
+- El chip 4011 es el único NAND sin Schmitt Trigger y el 4069 es un inversor.
+- Existe ua serie completa de chip 4000, al igual que hay de 7000
+- 
 
 ### post-clase
 
