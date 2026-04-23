@@ -1,5 +1,7 @@
 # grupo-06
 
+![Título](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/titulo.gif)
+
 ## integrantes
 
 - Santiago Cifuentes (santiagocifuvelez)
