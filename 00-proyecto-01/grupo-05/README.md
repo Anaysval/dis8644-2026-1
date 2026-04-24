@@ -267,13 +267,9 @@ La interconexión se resolvió mediante un sistema de puentes entre protoboards,
 
 Esta disposición, aunque funcional, evidenció que el orden visual no siempre coincide con el orden eléctrico. Durante el proceso, pequeños cambios en la posición o conexión de los cables afectaron directamente la continuidad de la señal, generando pérdidas de sonido o fallas en la activación de los módulos.
 
----
-
 ### Alimentación
 
 El sistema se alimenta mediante baterías que se mantienen ocultas dentro de la carcasa. Esta decisión responde a una intención de limpiar visualmente el objeto y evitar interferencias en la interacción, manteniendo visibles únicamente los elementos necesarios para su uso (controles y retroalimentación visual).
-
----
 
 ### Consideraciones
 
@@ -284,6 +280,8 @@ La interconexión no se definió solo desde el esquema, sino también desde la p
 - Verificar constantemente continuidad y puntos de tierra
 
 En este sentido, el cableado deja de ser un elemento neutro y pasa a ser parte activa del comportamiento del sistema.
+
+----------------------------------------
 
 ## resultados finales
 
@@ -305,23 +303,17 @@ A lo largo del desarrollo del OPEN-BEAT KRAFT, el proceso estuvo marcado por pru
 **La solución:** Se incorporó un capacitor de desacoplo (10nF) entre VCC y GND.  
 **Aprendizaje:** La estabilidad de la alimentación es fundamental, ya que pequeñas variaciones afectan todo el circuito.
 
----
-
 ### Control de velocidad y percepción
 
 **El error:** El pulso era demasiado rápido o demasiado lento para ser percibido correctamente en los LEDs.  
 **La solución:** Se ajustaron los valores de resistencia y se utilizó un capacitor de 10uF.  
 **Aprendizaje:** No basta con que el circuito funcione; también debe ser legible y controlable desde la experiencia.
 
----
-
 ### Lógica del secuenciador (CD4017)
 
 **El error:** Las salidas no seguían un orden intuitivo y el ciclo no se cerraba correctamente.  
 **La solución:** Se mapearon las salidas reales (pines 3, 2, 4 y 7) y se conectó el reset para generar un bucle de 4 pasos.  
 **Aprendizaje:** El comportamiento real de los componentes no siempre coincide con lo esperado desde el esquema.
-
----
 
 ### Interconexión y reorganización del circuito
 
@@ -331,15 +323,11 @@ A lo largo del desarrollo del OPEN-BEAT KRAFT, el proceso estuvo marcado por pru
 
 <img width="3893" height="2189" alt="error-proyecto-01-grupo-05" src="https://github.com/user-attachments/assets/cba8b0c8-e2e1-4e74-89d1-a935593358a3" />
 
----
-
 ### Salida de audio y amplificación
 
 **El error:** A pesar de que el resto del sistema funcionaba, los parlantes no lograron emitir sonido.  
 **La posible causa:** Problemas en la conexión entre la etapa de mezcla y los módulos de amplificación (LM386), o pérdida de señal en la interconexión entre protoboards.  
 **Aprendizaje:** La etapa de salida es especialmente sensible, y requiere continuidad clara de la señal y correcta distribución de alimentación y tierra.
-
----
 
 En conjunto, estos errores permitieron entender el circuito como un sistema interdependiente, donde cada decisión (tanto eléctrica como física) afecta directamente el resultado.
 
