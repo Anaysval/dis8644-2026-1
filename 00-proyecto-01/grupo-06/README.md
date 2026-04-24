@@ -94,13 +94,13 @@ Conectamos el pin 14 al positivo (VCC) y 7 al negativo (GND). Se instala un cond
 #### 2. Paso 2: Configuración de Osciladores (Steps) 
 Conectamos de las cuatro compuertas NAND del 4093 que se configura para recibir un pulso del secuenciador y finalizando con cada STEP doldandolo en el su potenciometro correspondiente para así poder moverse sin inconvenientes en la carcasa:
 
-+ **STEP 1:** la señal proveniente del pin 3 del 4017 que se ingresa a la pin 1. El pin 2 se vincula al potenciómetro RV2 (100k) y condensador de 0.47uF. La salida resultante (pin 3) se dirige al nodo común MIX tras pasar por una resistencia (1k). Logrando una alta frecuncia.
++ **STEP 1:** la señal proveniente del pin 3 del 4017 que se ingresa a la pin 1. El pin 2 se vincula al potenciómetro RV2 (100k) y condensador de 0.47µF. La salida resultante (pin 3) se dirige al nodo común MIX tras pasar por una resistencia (1k). Logrando una alta frecuncia.
 .
-+ **STEP 2:** La salida del pin 2 del 4017 se conecta a al pin 5. El pin 6 se asocia a su red RC (potenciómetro RV3 de 100k y condensador de 0.47uF). La señal sale por el pin 4, atraviesa la resistencia (1k) y se une al nodo MIX. Logrando una alta frecuncia.
++ **STEP 2:** La salida del pin 2 del 4017 se conecta a al pin 5. El pin 6 se asocia a su red RC (potenciómetro RV3 de 100k y condensador de 0.47µF). La señal sale por el pin 4, atraviesa la resistencia (1k) y se une al nodo MIX. Logrando una alta frecuncia.
   
-+ **STEP 3:** El pulso del pin 4 del 4017 se lleva a el pin 8. El pin 9 se conecta al circuito de control de tono (potenciómetro RV4 y condensador de 0.47uF). La salida se obtiene en el pin 10, pasando por la resistencia R10 (1k) antes de integrarse al punto de mezcla. Logrando una alta frecuncia.
++ **STEP 3:** El pulso del pin 4 del 4017 se lleva a el pin 8. El pin 9 se conecta al circuito de control de tono (potenciómetro RV4 y condensador de 0.47µF). La salida se obtiene en el pin 10, pasando por la resistencia R10 (1k) antes de integrarse al punto de mezcla. Logrando una alta frecuncia.
   
-+ **STEP 4:** Finalmente, la señal del pin 7 del 4017 se ingresa al pin 13. el pin 12 se conecta a la última red RC (potenciómetro RV5 y condensador de 0.47uF). La salida por el pin 11 se conduce al nodo MIX a través de la resistencia R11 (1k). Logrando una alta frecuncia.
++ **STEP 4:** Finalmente, la señal del pin 7 del 4017 se ingresa al pin 13. el pin 12 se conecta a la última red RC (potenciómetro RV5 y condensador de 0.47µF). La salida por el pin 11 se conduce al nodo MIX a través de la resistencia R11 (1k). Logrando una alta frecuncia.
   
 #### 3. Paso 3: Nodo de Mezcla (MIX) 
 Al finalizar este proceso, las cuatro señales rítmicas y tonales convergen en el punto MIX. Este nodo unifica las frecuencias generadas y permite crear diferentes vibraciones por cómo se mueven los potenciadores conectados a cada STEP, permitiendo que la suma de todos los osciladores sea enviada a la etapa final de amplificación.
@@ -108,13 +108,13 @@ Al finalizar este proceso, las cuatro señales rítmicas y tonales convergen en 
 ### Chips 386
 
 #### 1. Paso 1: Alimentación
-Conectamos el pin 6 a VCC (positivo de la fuente, entre 5V y 9V) y el pin 4 a GND (tierra). Para estabilizar la alimentación, se agrega el capacitor sin polaridad (100nF) entre estas dos líneas. Adicionalmente, se incluye un capacitor (100uF) entre VCC y GND para mejorar el filtrado y reducir ruidos en el sistema.
+Conectamos el pin 6 a VCC (positivo de la fuente, entre 5V y 9V) y el pin 4 a GND (tierra). Para estabilizar la alimentación, se agrega el capacitor sin polaridad (100nF) entre estas dos líneas. Adicionalmente, se incluye un capacitor (100µF) entre VCC y GND para mejorar el filtrado y reducir ruidos en el sistema.
 
 #### 2. Paso 2: Entrada de Señal y Control de Volumen
-La señal proveniente del nodo MIX se dirige a un potenciómetro (100k) para el control del volumen; un extremo se conecta a MIX y el otro a GND. El pin central del potenciómetro entrega la salida ajustada, la cual pasa por el capacitor (100uF) antes de ingresar al pin 3 (entrada de audio) del chip. Por su parte, el pin 2 del LM386 se conecta directamente a GND.
+La señal proveniente del nodo MIX se dirige a un potenciómetro (100k) para el control del volumen; un extremo se conecta a MIX y el otro a GND. El pin central del potenciómetro entrega la salida ajustada, la cual pasa por el capacitor (100µF) antes de ingresar al pin 3 (entrada de audio) del chip. Por su parte, el pin 2 del LM386 se conecta directamente a GND.
 
 #### 3. Paso 3: Salida hacia el Parlante
-La salida del sonido se obtiene gracias al pin 5. Desde este punto, se conecta el capacitor (100uF) en serie, el cual va dirigido hacia el parlante (LS1). Para completar el circuito, el terminal restante del parlante se conecta al nodo de tierra (GND). Finalmenmte soldamos estas conexiones para poder tener seguridad de la conexión. 
+La salida del sonido se obtiene gracias al pin 5. Desde este punto, se conecta el capacitor (100µF) en serie, el cual va dirigido hacia el parlante (LS1). Para completar el circuito, el terminal restante del parlante se conecta al nodo de tierra (GND). Finalmenmte soldamos estas conexiones para poder tener seguridad de la conexión. 
 
 ![proceso](imagenes/proceso/proceso_1.jpeg)
 ## modificaciones realizadas a los circuitos originales
@@ -125,10 +125,10 @@ Al iniciar el proceso, implementamos el circuito original entregado y modificado
 
 video de santi: https://youtube.com/shorts/FAeN6yMwqWY?feature=share
 
-Una vez lista la etapa anterior, procedimos a intervenir el circuito del chip 386 para maximizar la potencia y el tono de la salida de audio. Basándonos en la premisa de que valores menores de capacidad alteran la respuesta en frecuencia, sustituimos los condensadores de 100 uf por unos de 0,46 uf en la etapa de amplificación. Con este ajuste, no funcionaba bien el sistema, así que volvimos a poner el anterior condensador.
+Una vez lista la etapa anterior, procedimos a intervenir el circuito del chip 386 para maximizar la potencia y el tono de la salida de audio. Basándonos en la premisa de que valores menores de capacidad alteran la respuesta en frecuencia, sustituimos los condensadores de 100 µF por unos de 0,47 µF en la etapa de amplificación. Con este ajuste, no funcionaba bien el sistema, así que volvimos a poner el anterior condensador (finalmente dejamos todos de 0,47 µF en la entrega final)
 
-Posteriormente, probamos realizar cambios en los condensadores vinculados a los potenciómetros. Al utilizar inicialmente valores elevados (10uf), el volumen no alcanzaba la intensidad deseada y buscábamos una mayor variedad tonal, por lo que decidimos sustituirlos por condensadores de 0,47 uf
-Este ajuste resultó mucho más satisfactorio, ya que proporcionó un sonido notablemente más agudo y potente. Sin embargo, al querer una diversidad de mantener una diversidad de texturas sonoras dentro del mismo sistema, decidimos conservar el primer condensador (de izquierda a derecha) con su valor original de 10 uf, logrando así un contraste dinámico entre los diferentes tonos del sintetizador.
+Posteriormente, probamos realizar cambios en los condensadores vinculados a los potenciómetros. Al utilizar inicialmente valores elevados (10µF), el volumen no alcanzaba la intensidad deseada y buscábamos una mayor variedad tonal, por lo que decidimos sustituirlos por condensadores de 0,47 µF
+Este ajuste resultó mucho más satisfactorio, ya que proporcionó un sonido notablemente más agudo y potente. Sin embargo, al querer una diversidad de mantener una diversidad de texturas sonoras dentro del mismo sistema, decidimos conservar el primer condensador (de izquierda a derecha) con su valor original de 10 µF, logrando así un contraste dinámico entre los diferentes tonos del sintetizador.
 
 Videos del mut: 
 
