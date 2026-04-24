@@ -27,3 +27,5 @@ Aquí intenté dimensionar cómo se vería en tamaño real y lo dibujé en mi te
 Fotito extra de mi ayudante Miko que se metió a la caja donde guardábamos las protoboards
 
 ![foto](./imagenes/miko.png)
+
+Yyyy el resto del proceso se puede ver en la carpeta 00-proyecto-01, grupo-02 ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
