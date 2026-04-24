@@ -133,7 +133,7 @@ Responde a una **lógica de uso**: los **controles** se ubicaron en la parte sup
 ![proyecto-01-grupo-05](imagenes/acercamientos-interfaz-cartonproyecto-01-grupo-05.jpg)
 
 ### Proceso  
-El proceso de diseño comenzó revisando *referentes y sintetizadores existentes, para luego definir qué queríamos mostrar y cómo queríamos que funcionara la interfaz. A partir de esto, se realizó un **modelado 3D** inicial, considerando la posibilidad de fabricación mediante **corte láser**, lo que finalmente no se pudo concretar. En su lugar, se utilizó el modelo como base para generar una **plantilla calcada sobre láminas (A1)**, que luego se transfirió a **cartón corrugado** para corte y armado manual.
+El proceso de diseño comenzó revisando *referentes y sintetizadores existentes*, para luego definir qué queríamos mostrar y cómo queríamos que funcionara la interfaz. A partir de esto, se realizó un **modelado 3D** inicial, considerando la posibilidad de fabricación mediante **corte láser**, lo que finalmente no se pudo concretar. En su lugar, se utilizó el modelo como base para generar una **plantilla calcada sobre láminas (A1)**, que luego se transfirió a **cartón corrugado** para corte y armado manual.
 
 ![proyecto-01-grupo-05](imagenes/plantilla-a1-interfaz-carton-proyecto-01-grupo-05.jpg)
 
