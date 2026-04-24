@@ -103,11 +103,9 @@ Conectamos de las cuatro compuertas NAND del 4093 que se configura para recibir 
 + **STEP 4:** Finalmente, la señal del pin 7 del 4017 se ingresa al pin 13. el pin 12 se conecta a la última red RC (potenciómetro RV5 y condensador de 0.47uF). La salida por el pin 11 se conduce al nodo MIX a través de la resistencia R11 (1k). Logrando una alta frecuncia.
   
 #### 3. Paso 3: Nodo de Mezcla (MIX) 
-Al finalizar este proceso, las cuatro señales rítmicas y tonales convergen en el punto MIX. Este nodo unifica las frecuencias generadas y permite crear diferentes frecuencias de  vibraciones por cómo se mueven los potenciadores conectados a cada STEP, permitiendo que la suma de todos los osciladores sea enviada a la etapa final de amplificación.
+Al finalizar este proceso, las cuatro señales rítmicas y tonales convergen en el punto MIX. Este nodo unifica las frecuencias generadas y permite crear diferentes vibraciones por cómo se mueven los potenciadores conectados a cada STEP, permitiendo que la suma de todos los osciladores sea enviada a la etapa final de amplificación.
 
 ### Chips 386
-
-Etapa de Amplificación de Audio (IC LM386)
 
 #### 1. Paso 1: Alimentación
 Conectamos el pin 6 a VCC (positivo de la fuente, entre 5V y 9V) y el pin 4 a GND (tierra). Para estabilizar la alimentación, se agrega el capacitor sin polaridad (100nF) entre estas dos líneas. Adicionalmente, se incluye un capacitor (100uF) entre VCC y GND para mejorar el filtrado y reducir ruidos en el sistema.
@@ -116,7 +114,7 @@ Conectamos el pin 6 a VCC (positivo de la fuente, entre 5V y 9V) y el pin 4 a GN
 La señal proveniente del nodo MIX se dirige a un potenciómetro (100k) para el control del volumen; un extremo se conecta a MIX y el otro a GND. El pin central del potenciómetro entrega la salida ajustada, la cual pasa por el capacitor (100uF) antes de ingresar al pin 3 (entrada de audio) del chip. Por su parte, el pin 2 del LM386 se conecta directamente a GND.
 
 #### 3. Paso 3: Salida hacia el Parlante
-La salida de audio se obtiene desde pin 5. Desde este punto, se conecta el capacitor (100uF) en serie, el cual va dirigido hacia el parlante (LS1). Para completar el circuito, el terminal restante del parlante se conecta al nodo de tierra (GND). Finalizando con la soldadora de estas conexiones para poder tener una seguridad de conexión. 
+La salida del sonido se obtiene gracias al pin 5. Desde este punto, se conecta el capacitor (100uF) en serie, el cual va dirigido hacia el parlante (LS1). Para completar el circuito, el terminal restante del parlante se conecta al nodo de tierra (GND). Finalmenmte soldamos estas conexiones para poder tener seguridad de la conexión. 
 
 ![proceso](imagenes/proceso/proceso_1.jpeg)
 ## modificaciones realizadas a los circuitos originales
