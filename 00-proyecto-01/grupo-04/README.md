@@ -13,8 +13,8 @@ en nuestro caso, no hicimos variaciones dentro del esquemático que se nos entre
 
 para adaptar los componentes a su carcasa, decidimos alargar los cables dupont usando cables con el sistema plug-jack, logrando así que alcancen una distancia más larga y poder soldar los potenciómetros y el LED a estos para poder ubicarlos en sus lugares correspondientes. en el caso del parlante, que estaba originalmente haciendo contacto con el circuito mediante pinzas caimanes que se unían a cables dupont, los cuales se ubicaban en el lugar que les correspondía dentro de la protoboard, decidimos soldar directamente a cables Dupont para así dejar atrás las pinzas caimán y poder seguir con nuestras vidas.
 
-
-imagen del sintetizador en su contexto
+![imagenes](./imagenes/el-tincado-de-frente.jpeg)
+![imagenes](./imagenes/el-tincado-iso.jpeg)
 
 audio o video del sintetizador en acción
 
